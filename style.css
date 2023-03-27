@@ -1,0 +1,16 @@
+img {
+  width: 100%;
+}
+
+header {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.memory-card {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  margin: 0 auto;
+  max-width: 600px;
+}
